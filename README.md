@@ -1,2 +1,6 @@
 # hello-world
-Just the hello world repository
+
+Hi Humans!
+
+Move along, nothing to see here.
+
